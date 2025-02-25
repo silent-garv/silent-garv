@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silent-garv
 - 👀 I’m interested in cyber security and networking 
-- 🌱 I’m currently learning ethical hacking 
+- 🌱 I’m currently learning Fundamentals of threat response and security
 - 💞️ I’m looking to collaborate on big scale projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
